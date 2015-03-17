@@ -1,2 +1,2 @@
 # gpgedit
-Manage encrypted textfile with gpg
+Manage encrypted textfiles with gpg (for password lists etc.)
